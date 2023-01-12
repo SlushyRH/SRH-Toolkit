@@ -1,3 +1,8 @@
+// Code belongs from TaroDev. This is was too good not to share to others.
+// Makes using Singletons easier!
+//
+// TaroDev -> https://www.youtube.com/@Tarodev
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
