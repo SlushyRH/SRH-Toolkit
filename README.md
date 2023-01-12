@@ -8,7 +8,7 @@ I don't know how often I will be adding to this, but I will try to add any gener
 - [AnimationManager](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/AnimationManager.cs) - This helps you manage your animations on an Animator in C#.
 - [Extensions](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Extensions.cs) - A bunch of extension methods on game objects.
 - [MathRH](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/MathRH.cs) - Some random Math related functions.
-- [Singleton](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Singleton.cs) - A useful singleton abstract class which allows you to have singletons with just one abstract class.
+- [Singleton](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Singleton.cs) - A useful singleton abstract class which allows you to have singletons with just one abstract class. [How To Use](https://github.com/SlushyRH/SRH-Toolkit#singleton-usage)
 - [ZipArchiver](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/ZipArchiver.cs) - Allows you to extract or compress ZIP files in runtime or in the editor.
 ## Effects
 - [MouseParallaxEffect](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/MouseParallaxEffect.cs) - Just another Parallax Mouse Effect. A simple but useful effect.
