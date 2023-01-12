@@ -1,4 +1,4 @@
-# SRH Toolkit
+# SRH Toolkit for Unity
 This is a collection of random utility classes/scripts I have made over the years I have used Unity.
 
 I don't know how often I will be adding to this, but I will try to add any general purpose scripts I make to this.
