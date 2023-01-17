@@ -36,4 +36,5 @@ This just shows you how to use the singleton pattern that [TaroDev](https://www.
 - [ZipArchiver](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/ZipArchiver.cs) - Allows you to extract or compress ZIP files in runtime or in the editor.
 ## Effects
 - [MouseParallaxEffect](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/MouseParallaxEffect.cs) - Just another Parallax Mouse Effect. A simple but useful effect.
+ - [ToomMotion](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/ToonMotion.cs) - Allows you to control the FPS rate of 3D Animations (Into The Spider Verse Look).
 - [TypeWriterEffect](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/TypeWriterEffect.cs) - Just a Typing Effect that can be used on either Text or Text Mesh Pro.
