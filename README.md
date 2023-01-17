@@ -8,10 +8,11 @@ I don't know how often I will be adding to this, but I will try to add any gener
 - [AnimationManager](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/AnimationManager.cs) - This helps you manage your animations on an Animator in C#.
 - [Extensions](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Extensions.cs) - A bunch of extension methods on game objects.
 - [MathRH](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/MathRH.cs) - Some random Math related functions.
-- [Singleton](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Singleton.cs) - A useful singleton abstract class which allows you to have singletons with just one abstract class. [How To Use](https://github.com/SlushyRH/SRH-Toolkit#singleton-usage)
+- [Singleton](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Singleton.cs) - A useful singleton abstract class which allows you to have singletons with just one abstract class.
 - [ZipArchiver](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/ZipArchiver.cs) - Allows you to extract or compress ZIP files in runtime or in the editor.
 ## Effects
 - [MouseParallaxEffect](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/MouseParallaxEffect.cs) - Just another Parallax Mouse Effect. A simple but useful effect.
+ - [ToomMotion](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/ToonMotion.cs) - Allows you to control the FPS rate of 3D Animations (Into The Spider Verse Look).
 - [TypeWriterEffect](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/TypeWriterEffect.cs) - Just a Typing Effect that can be used on either Text or Text Mesh Pro.
 
 # Singleton Usage
@@ -37,15 +38,3 @@ This just shows you how to use the singleton pattern that [TaroDev](https://www.
       }
   }
 ````
-
-# Scripts
-## Core
-- [AnimationManager](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/AnimationManager.cs) - This helps you manage your animations on an Animator in C#.
-- [Extensions](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Extensions.cs) - A bunch of extension methods on game objects.
-- [MathRH](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/MathRH.cs) - Some random Math related functions.
-- [Singleton](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/Singleton.cs) - A useful singleton abstract class which allows you to have singletons with just one abstract class.
-- [ZipArchiver](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Core/ZipArchiver.cs) - Allows you to extract or compress ZIP files in runtime or in the editor.
-## Effects
-- [MouseParallaxEffect](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/MouseParallaxEffect.cs) - Just another Parallax Mouse Effect. A simple but useful effect.
- - [ToomMotion](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/ToonMotion.cs) - Allows you to control the FPS rate of 3D Animations (Into The Spider Verse Look).
-- [TypeWriterEffect](https://github.com/SlushyRH/SRH-Toolkit/blob/master/Toolkit/Effects/TypeWriterEffect.cs) - Just a Typing Effect that can be used on either Text or Text Mesh Pro.
